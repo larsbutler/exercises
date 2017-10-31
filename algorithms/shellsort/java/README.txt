@@ -1,5 +1,5 @@
 This code was written during my attendance of CMSC 451 (Design and Analysis of
-Computer Algorithms) as UMUC during the 2017 Spring semester.
+Computer Algorithms) at UMUC during the 2017 Spring semester.
 
 A few touch-ups and modifications have been made from the original code.
 
