@@ -115,7 +115,7 @@ public class Testable {
         int failCount = 0;
 
         for (Method meth : this.getClass().getDeclaredMethods()) {
-            // Check for `ATest` annotations, in order to find test methods.
+            // Check for `@Test` annotations, in order to find test methods.
             Annotation[] annots = meth
                     .getAnnotationsByType(Testable.Test.class);
             if (annots.length > 0) {
