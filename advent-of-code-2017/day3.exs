@@ -1,3 +1,5 @@
+# Solution for Day3, part 1
+###########################
 defmodule Day3 do
 
   def min_of_ring(1), do: 2

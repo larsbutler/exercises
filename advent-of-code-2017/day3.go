@@ -1,3 +1,6 @@
+/*
+ * Solution for Day3, part 2
+ */
 package main
 
 import (
